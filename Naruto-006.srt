@@ -1,0 +1,1111 @@
+﻿1
+00:01:39,400 --> 00:01:41,232
+<i>C'est Sasuke. J'arrive au point B.</i>
+
+2
+00:01:41,440 --> 00:01:43,397
+<i>C'est Sakura. Je suis au point C.</i>
+
+3
+00:01:46,000 --> 00:01:48,389
+<i>C'est Naruto. Je suis au point A.</i>
+
+4
+00:01:48,680 --> 00:01:49,750
+<i>Tu es lent, Naruto.</i>
+
+5
+00:01:50,760 --> 00:01:52,433
+<i>Septième groupe...</i>
+
+6
+00:01:54,880 --> 00:01:55,870
+<i>La cible a bougé.</i>
+
+7
+00:01:56,960 --> 00:01:57,631
+<i>Ici !</i>
+
+8
+00:02:04,400 --> 00:02:05,720
+<i>C'est bon, il est là.</i>
+
+9
+00:02:09,760 --> 00:02:10,989
+A quelle distance est la cible ?
+
+10
+00:02:12,600 --> 00:02:15,831
+Cinq mètres.
+Je suis prêt à y aller.
+
+11
+00:02:16,880 --> 00:02:17,790
+Moi aussi.
+
+12
+00:02:18,480 --> 00:02:19,595
+Moi aussi.
+
+13
+00:02:20,760 --> 00:02:21,670
+D'accord.
+
+14
+00:02:24,320 --> 00:02:25,037
+Allez-y !
+
+15
+00:02:28,000 --> 00:02:29,718
+Je te tiens !
+
+16
+00:02:30,760 --> 00:02:34,071
+<i>Il a un ruban sur l'oreille droite ?
+C'est bien notre cible, Tora ?</i>
+
+17
+00:02:35,600 --> 00:02:37,193
+C'est notre cible, c'est sûr.
+
+18
+00:02:38,000 --> 00:02:38,671
+D'accord.
+
+19
+00:02:39,280 --> 00:02:42,398
+Capture de Tora, l'animal perdu,
+effectuée.
+
+20
+00:02:43,440 --> 00:02:47,229
+<i>Il n'y a pas une mission
+plus passionnante pour nous ?</i>
+
+21
+00:02:48,120 --> 00:02:53,672
+<i>Épisode 6 :
+Au Pays des vagues</i>
+
+22
+00:02:56,000 --> 00:02:58,799
+Mon adorable Tora-chan !
+
+23
+00:02:59,000 --> 00:03:01,355
+J'étais si inquiète pour toi !
+
+24
+00:03:09,880 --> 00:03:12,554
+Ce chat n'a que ce qu'il mérite.
+
+25
+00:03:13,000 --> 00:03:15,958
+Pas étonnant qu'il se soit enfui...
+
+26
+00:03:18,320 --> 00:03:21,631
+Maintenant, la prochaine mission
+du 7e groupe, celui de Kakashi...
+
+27
+00:03:24,680 --> 00:03:27,798
+Garder le fils de Yojyu-sama.
+
+28
+00:03:28,000 --> 00:03:30,355
+Faire des courses à la ville voisine.
+
+29
+00:03:30,800 --> 00:03:33,076
+- Aider à ramasser les patates...
+- Non !
+
+30
+00:03:33,720 --> 00:03:35,677
+Merci, mais sans façon !
+
+31
+00:03:36,000 --> 00:03:39,595
+Je veux une mission plus passionnante !
+
+32
+00:03:39,800 --> 00:03:40,790
+Choisissez autre chose !
+
+33
+00:03:41,520 --> 00:03:42,237
+<i>Il n'a pas tort.</i>
+
+34
+00:03:42,880 --> 00:03:44,439
+<i>Quel fauteur de troubles !</i>
+
+35
+00:03:47,320 --> 00:03:50,119
+<i>Je savais qu'il ferait ça tôt ou tard.</i>
+
+36
+00:03:50,680 --> 00:03:52,034
+Idiot !
+
+37
+00:03:52,240 --> 00:03:54,834
+Tu es encore un ninja novice !
+
+38
+00:03:55,040 --> 00:03:59,113
+On commence par des missions faciles
+pour acquérir de l'expérience !
+
+39
+00:03:59,480 --> 00:04:00,959
+Mais... Mais...
+
+40
+00:04:01,160 --> 00:04:03,800
+On ne fait que des missions stupides !
+
+41
+00:04:05,520 --> 00:04:07,113
+Arrête ça !
+
+42
+00:04:07,880 --> 00:04:08,790
+Naruto !
+
+43
+00:04:09,960 --> 00:04:14,636
+il semble que je doive t'expliquer
+ce que sont ces missions.
+
+44
+00:04:16,000 --> 00:04:20,915
+Écoute, de nombreux clients
+visitent ce village chaque jour.
+
+45
+00:04:22,000 --> 00:04:24,753
+Ils achètent tout,
+de la garde d'enfant à l'assassinat...
+
+46
+00:04:26,120 --> 00:04:30,398
+Sur la liste des demandes,
+on trouve les choses les plus variées.
+
+47
+00:04:30,600 --> 00:04:34,036
+Elles sont séparées en 4 catégories :
+A, B, C ou D,
+
+48
+00:04:34,240 --> 00:04:35,958
+selon leur difficulté.
+
+49
+00:04:37,040 --> 00:04:39,111
+Dans ce village, je suis le chef.
+
+50
+00:04:39,320 --> 00:04:42,676
+Les gens sont séparés
+en <i>Jounin, Chuunin</i> et <i>Genin</i>
+
+51
+00:04:42,880 --> 00:04:45,076
+selon leurs capacités.
+
+52
+00:04:46,360 --> 00:04:50,718
+Les officiels assignent les missions
+
+53
+00:04:50,920 --> 00:04:53,275
+en fonction des capacités de chacun.
+
+54
+00:04:53,720 --> 00:04:56,030
+Si la mission est accomplie,
+
+55
+00:04:56,640 --> 00:05:00,520
+le client nous verse des honoraires.
+
+56
+00:05:01,560 --> 00:05:06,396
+Vous êtes devenus des <i>Genin</i> récemment.
+
+57
+00:05:06,600 --> 00:05:09,274
+Les missions de type D vous reviennent.
+
+58
+00:05:11,120 --> 00:05:15,114
+J'ai mangé du <i>tonkotsu ramen</i> hier,
+je mangerai du <i>miso ramen</i> aujourd'hui.
+
+59
+00:05:15,320 --> 00:05:16,913
+Écoutez !
+
+60
+00:05:17,160 --> 00:05:18,673
+Je suis désolé.
+
+61
+00:05:20,200 --> 00:05:22,476
+Tu me fais toujours la leçon,
+grand-père.
+
+62
+00:05:23,280 --> 00:05:24,554
+Mais j'ai grandi !
+
+63
+00:05:24,760 --> 00:05:28,993
+Je ne suis plus ce garnement,
+habitué des mauvais tours !
+
+64
+00:05:35,280 --> 00:05:37,191
+<i>Je vais me prendre un savon plus tard...</i>
+
+65
+00:05:44,960 --> 00:05:49,591
+<i>Il ne parvenait à s'exprimer
+qu'à travers ses facéties, mais là...</i>
+
+66
+00:05:51,000 --> 00:05:52,752
+D'accord, je comprends.
+
+67
+00:05:53,800 --> 00:05:55,552
+Si tu insistes...
+
+68
+00:05:56,400 --> 00:05:58,835
+Je vous autorise à entreprendre
+une mission de type C.
+
+69
+00:05:59,840 --> 00:06:01,513
+il s'agit d'escorter
+une certaine personne.
+
+70
+00:06:02,440 --> 00:06:03,555
+Vraiment ?
+
+71
+00:06:04,800 --> 00:06:05,995
+Qui ?
+
+72
+00:06:06,200 --> 00:06:08,714
+S'agit-il d'un seigneur ?
+Ou bien une princesse ?
+
+73
+00:06:09,480 --> 00:06:10,993
+Ne sois pas si pressé.
+
+74
+00:06:11,560 --> 00:06:13,198
+Je vais vous le présenter.
+
+75
+00:06:14,480 --> 00:06:17,120
+Vous pouvez entrer, maintenant ?
+
+76
+00:06:26,080 --> 00:06:29,960
+Quoi ? Ce sont des enfants !
+
+77
+00:06:40,880 --> 00:06:43,838
+Le tout petit avec l'air idiot
+est vraiment un ninja ?
+
+78
+00:06:44,040 --> 00:06:46,919
+Vous êtes vraiment des ninjas ?
+
+79
+00:06:48,600 --> 00:06:51,752
+Qui est le tout petit
+avec l'air idiot ?
+
+80
+00:06:56,280 --> 00:06:57,350
+Je vais vous tuer !
+
+81
+00:06:57,560 --> 00:07:00,279
+Ne tue pas l'homme
+que tu dois escorter !
+
+82
+00:07:04,680 --> 00:07:09,675
+Je suis l'ingénieur civil Tazuna,
+un constructeur de pont émérite.
+
+83
+00:07:09,920 --> 00:07:14,551
+Afin que je rentre chez moi,
+pour finir mon pont,
+
+84
+00:07:14,760 --> 00:07:17,354
+protégez-moi.
+
+85
+00:07:35,640 --> 00:07:36,994
+Très bien !
+
+86
+00:07:37,480 --> 00:07:39,312
+Allons-y !
+
+87
+00:07:39,520 --> 00:07:41,557
+Pourquoi toute cette excitation ?
+
+88
+00:07:42,240 --> 00:07:46,552
+Parce que je n'ai jamais quitté
+ce village auparavant.
+
+89
+00:07:47,160 --> 00:07:51,233
+Un gamin comme lui est-il capable
+de remplir une telle mission ?
+
+90
+00:07:52,720 --> 00:07:54,677
+Moi, un <i>Jounin,
+</i>je vais vous accompagner.
+
+91
+00:07:54,880 --> 00:07:56,075
+Ne vous inquiétez pas.
+
+92
+00:07:56,280 --> 00:07:58,317
+<i>Un gamin comme lui est-il capable...</i>
+
+93
+00:08:00,400 --> 00:08:04,234
+<i>Ce vieux jeton est le pire client
+qu'on puisse trouver.</i>
+
+94
+00:08:04,440 --> 00:08:06,033
+<i>J'ai deux mots à lui dire !</i>
+
+95
+00:08:06,800 --> 00:08:10,270
+Vieux jeton,
+ne sous-estimez pas les ninjas !
+
+96
+00:08:10,480 --> 00:08:11,993
+Je suis un grand ninja !
+
+97
+00:08:12,600 --> 00:08:15,956
+Je suis un ninja d'élite
+qui sera Hokage un jour.
+
+98
+00:08:16,160 --> 00:08:19,949
+Je m'appelle Uzumaki Naruto.
+Souvenez-vous-en !
+
+99
+00:08:25,680 --> 00:08:29,833
+L'Hokage est le plus grand ninja
+du village, c'est bien ça ?
+
+100
+00:08:30,400 --> 00:08:33,438
+Je doute qu'un gars comme toi
+puisse le devenir.
+
+101
+00:08:34,160 --> 00:08:38,040
+Fermez-la !
+J'affronterai toutes les difficultés
+
+102
+00:08:38,240 --> 00:08:40,277
+pour devenir Hokage !
+
+103
+00:08:40,480 --> 00:08:44,838
+Si je deviens Hokage,
+vous devrez faire attention à moi !
+
+104
+00:08:46,640 --> 00:08:51,874
+Je ne le ferai pas, petit.
+Même si tu deviens Hokage.
+
+105
+00:08:53,040 --> 00:08:54,394
+Je vais vous tuer !
+
+106
+00:08:54,600 --> 00:08:56,352
+Arrête, imbécile !
+
+107
+00:08:56,560 --> 00:09:01,077
+Non ! Laissez-moi le frapper
+au moins une fois !
+
+108
+00:09:07,120 --> 00:09:08,872
+Tazuna-san !
+
+109
+00:09:09,640 --> 00:09:10,471
+Qu'y a-t-il ?
+
+110
+00:09:11,160 --> 00:09:14,790
+Vous venez du Pays des vagues,
+n'est-ce pas ?
+
+111
+00:09:15,000 --> 00:09:16,149
+Et alors ?
+
+112
+00:09:17,080 --> 00:09:20,357
+Kakashi-sensei, y a-t-il
+des ninjas dans ce pays ?
+
+113
+00:09:21,120 --> 00:09:24,317
+Non, il n'y a pas de ninjas
+au Pays des vagues.
+
+114
+00:09:24,520 --> 00:09:29,594
+Même si la culture et les coutumes
+des autres pays sont différentes,
+
+115
+00:09:29,800 --> 00:09:32,633
+les villages cachés
+et les ninjas existent.
+
+116
+00:09:36,320 --> 00:09:38,960
+<i>Dans de nombreux pays,</i>
+
+117
+00:09:39,160 --> 00:09:43,199
+<i>ces villages ninjas sont l'équivalent
+d'une force militaire.</i>
+
+118
+00:09:44,160 --> 00:09:49,280
+<i>C'est ainsi qu'ils maintiennent
+leurs relations avec l'extérieur.</i>
+
+119
+00:09:50,400 --> 00:09:54,837
+<i>Mais les villages ne sont pas contrôlés
+par le pays.</i>
+
+120
+00:09:55,040 --> 00:09:57,316
+<i>Ils sont censés être d'égal niveau.</i>
+
+121
+00:09:58,880 --> 00:10:03,431
+<i>Sur une île comme le Pays des vagues,
+qui est peu menacée par l'extérieur,</i>
+
+122
+00:10:03,720 --> 00:10:06,360
+<i>il n'est nul besoin d'un village ninja.</i>
+
+123
+00:10:09,520 --> 00:10:12,558
+<i>Parmi les pays
+qui ont un village ninja,</i>
+
+124
+00:10:12,760 --> 00:10:16,719
+<i>on compte ceux du Feu,
+de l'Eau, de l’Éclair,</i>
+
+125
+00:10:16,920 --> 00:10:19,196
+<i>du Vent et de la Terre.</i>
+
+126
+00:10:19,520 --> 00:10:24,594
+<i>Ces vastes et puissants territoires
+sont les Cinq Grands Pouvoirs Ninjas.</i>
+
+127
+00:10:26,720 --> 00:10:29,030
+<i>Pays du Feu,
+Village Caché de Konoha.</i>
+
+128
+00:10:29,840 --> 00:10:31,513
+<i>Pays de l'Eau
+Village Caché de la Brume.</i>
+
+129
+00:10:32,520 --> 00:10:34,318
+<i>Pays de l’Éclair
+Village Caché des Nuages.</i>
+
+130
+00:10:35,440 --> 00:10:37,272
+<i>Pays du Vent
+Village Caché du Sable.</i>
+
+131
+00:10:38,400 --> 00:10:40,755
+<i>Pays de la Terre
+Village Caché de la Pierre.</i>
+
+132
+00:10:41,680 --> 00:10:46,231
+<i>Seul le chef de chaque village caché
+peut porter le nom de Kage.</i>
+
+133
+00:10:48,120 --> 00:10:52,990
+<i>Hokage, Mizukage,
+Raikage, Kazekage et Tsuchikage</i>
+
+134
+00:10:53,200 --> 00:10:56,158
+<i>sont connus sous le nom
+des Cinq Kage.</i>
+
+135
+00:10:56,360 --> 00:11:01,196
+<i>Ce sont les cinq ninjas qui règnent
+sur tous les ninjas du monde.</i>
+
+136
+00:11:02,880 --> 00:11:05,156
+Ainsi,
+Hokage-sama doit être un grand homme.
+
+137
+00:11:06,360 --> 00:11:09,512
+<i>Ce vieux jeton serait un grand homme ?
+C'est douteux...</i>
+
+138
+00:11:09,720 --> 00:11:11,393
+<i>Je ne peux pas croire...</i>
+
+139
+00:11:15,640 --> 00:11:17,278
+<i>Ce doit être un mensonge.</i>
+
+140
+00:11:21,640 --> 00:11:24,314
+Vous doutez tous d'Hokage-sama,
+n'est-ce pas ?
+
+141
+00:11:29,240 --> 00:11:31,675
+Non, non... Pas d'inquiétude.
+
+142
+00:11:32,160 --> 00:11:35,915
+il n'y a pas de combats au niveau C.
+
+143
+00:11:36,240 --> 00:11:40,279
+Aucun risque de rencontrer
+un ninja venu de l'étranger.
+
+144
+00:11:40,880 --> 00:11:42,075
+Bien sûr.
+
+145
+00:12:35,040 --> 00:12:35,950
+Quoi ?
+
+146
+00:12:37,040 --> 00:12:37,472
+<i></i>
+
+147
+00:12:38,200 --> 00:12:39,554
+<i>Le premier.</i>
+
+148
+00:12:50,920 --> 00:12:52,399
+Kakashi-sensei !
+
+149
+00:12:55,160 --> 00:12:56,559
+<i>Le second.</i>
+
+150
+00:12:58,960 --> 00:13:00,109
+<i>Le second.</i>
+
+151
+00:13:22,600 --> 00:13:23,271
+il refuse de sortir.
+
+152
+00:13:42,640 --> 00:13:43,232
+<i>Il arrive...</i>
+
+153
+00:13:43,440 --> 00:13:45,397
+<i>Je dois le faire...
+Je dois le faire !</i>
+
+154
+00:13:46,040 --> 00:13:47,314
+Restez en arrière !
+
+155
+00:14:15,000 --> 00:14:16,354
+Kakashi-sensei !
+
+156
+00:14:16,560 --> 00:14:17,470
+il est vivant !
+
+157
+00:14:18,200 --> 00:14:19,952
+Quelle démonstration !
+
+158
+00:14:22,600 --> 00:14:24,750
+Alors, c'était...
+
+159
+00:14:27,560 --> 00:14:30,871
+Kakashi-sensei a utilisé
+la technique du remplacement.
+
+160
+00:14:33,720 --> 00:14:37,918
+Naruto, je suis désolé
+de ne pas t'avoir aidé tout de suite.
+
+161
+00:14:38,560 --> 00:14:40,278
+Et tu as été blessé...
+
+162
+00:14:41,440 --> 00:14:44,876
+Je pensais que tu bougerais.
+
+163
+00:14:47,120 --> 00:14:49,350
+<i>Je suis sauvé...</i>
+
+164
+00:14:53,400 --> 00:14:55,311
+En tout cas, Sasuke, bon travail.
+
+165
+00:14:56,000 --> 00:14:57,070
+Sakura, toi aussi.
+
+166
+00:14:59,280 --> 00:15:02,636
+<i>Je... n'ai rien pu faire.</i>
+
+167
+00:15:03,360 --> 00:15:06,557
+<i>Mais Sasuke, si.
+Dès son premier vrai combat.</i>
+
+168
+00:15:07,560 --> 00:15:09,790
+<i>Il n'a pas eu peur du tout.</i>
+
+169
+00:15:10,160 --> 00:15:13,755
+<i>Il m'a aidé en gardant son calme</i>
+
+170
+00:15:13,960 --> 00:15:15,871
+<i>sans même salir ses vêtements.</i>
+
+171
+00:15:17,320 --> 00:15:18,355
+Hé !
+
+172
+00:15:19,720 --> 00:15:21,040
+Es-tu blessé ?
+
+173
+00:15:22,960 --> 00:15:23,711
+M. le Chat Effrayé...
+
+174
+00:15:28,240 --> 00:15:29,196
+Sasuke !
+
+175
+00:15:29,400 --> 00:15:30,196
+Naruto !
+
+176
+00:15:31,280 --> 00:15:33,635
+il y a du poison
+sur les ongles de ce type.
+
+177
+00:15:34,480 --> 00:15:37,393
+il faut faire sortir le poison
+tout de suite.
+
+178
+00:15:39,280 --> 00:15:42,352
+il faut ouvrir ta blessure
+et aspirer le sang empoisonné.
+
+179
+00:15:42,680 --> 00:15:45,115
+Ne bouge pas,
+tu pompes le poison dans ton corps.
+
+180
+00:15:46,400 --> 00:15:47,595
+Au fait, Tazuna-san...
+
+181
+00:15:47,800 --> 00:15:49,598
+Qu'y a-t-il ?
+
+182
+00:15:51,640 --> 00:15:53,074
+J'ai besoin de vous parler.
+
+183
+00:15:56,680 --> 00:15:59,672
+Ceux-là sont des <i>Chuunin
+</i>du Village Caché de la Brume.
+
+184
+00:15:59,880 --> 00:16:04,716
+Ces ninjas sont connus
+pour se battre jusqu'à la mort.
+
+185
+00:16:06,280 --> 00:16:08,237
+Comment avez-vous pu
+repérer notre action ?
+
+186
+00:16:09,600 --> 00:16:12,752
+il n'a pas plu depuis plusieurs jours,
+le soleil brille,
+
+187
+00:16:12,960 --> 00:16:16,351
+il ne devait pas y avoir
+de flaques de boue.
+
+188
+00:16:17,520 --> 00:16:20,672
+Pourquoi avoir laissé les jeunes
+se battre si vous le saviez ?
+
+189
+00:16:21,920 --> 00:16:25,709
+Si je l'avais voulu, j'aurais tué
+ces deux-là en un clin d'œil.
+
+190
+00:16:26,840 --> 00:16:27,716
+Mais...
+
+191
+00:16:28,240 --> 00:16:31,073
+je devais savoir
+
+192
+00:16:32,280 --> 00:16:35,352
+qui était leur cible.
+
+193
+00:16:37,320 --> 00:16:38,799
+Comment ça ?
+
+194
+00:16:39,720 --> 00:16:43,998
+En d'autres termes,
+étiez-vous la cible,
+
+195
+00:16:44,200 --> 00:16:49,320
+ou bien était-ce quelqu'un
+de mon groupe de ninjas ?
+
+196
+00:16:50,960 --> 00:16:56,160
+Nous ne savions rien sur le fait
+que vous soyez la cible de ninjas.
+
+197
+00:16:56,360 --> 00:16:57,953
+Votre demande était
+
+198
+00:16:58,160 --> 00:17:02,597
+qu'on vous protège des groupes armés,
+des bandes de voleurs.
+
+199
+00:17:03,520 --> 00:17:06,831
+C'est une mission
+qui est bien au-delà du niveau B.
+
+200
+00:17:08,240 --> 00:17:12,837
+Notre travail était de vous protéger
+jusqu'à l'achèvement du pont.
+
+201
+00:17:14,320 --> 00:17:16,038
+Si les ninjas sont vos ennemis,
+
+202
+00:17:16,600 --> 00:17:20,514
+cette mission relève du niveau B
+et devrait coûter plus cher.
+
+203
+00:17:21,960 --> 00:17:27,034
+Vous devez avoir vos raisons,
+mais votre demande était fallacieuse.
+
+204
+00:17:27,240 --> 00:17:31,199
+Ça nous ennuie.
+Ça ne faisait pas partie de la mission.
+
+205
+00:17:32,040 --> 00:17:35,510
+Cette mission ne relève pas
+de notre catégorie.
+
+206
+00:17:35,720 --> 00:17:36,949
+Partons !
+
+207
+00:17:38,200 --> 00:17:42,194
+il faut une anesthésie pour enlever
+le poison du sang de Naruto.
+
+208
+00:17:43,080 --> 00:17:45,390
+il faut retourner au village
+voir un docteur !
+
+209
+00:17:53,640 --> 00:17:59,158
+C'est un handicap, mais retournons
+au village pour soigner Naruto.
+
+210
+00:18:17,160 --> 00:18:21,074
+<i>Pourquoi suis-je si différent ?
+Pourquoi suis-je toujours...</i>
+
+211
+00:18:22,240 --> 00:18:23,275
+<i>Bon sang !</i>
+
+212
+00:18:23,480 --> 00:18:25,915
+Naruto, que fais-tu ?
+
+213
+00:18:27,840 --> 00:18:30,400
+<i>Je devrais être plus fort...</i>
+
+214
+00:18:31,320 --> 00:18:36,269
+<i>J'ai accompli nombre de missions.
+Je me suis entraîné chaque jour.</i>
+
+215
+00:18:39,800 --> 00:18:44,112
+<i>Je ne ferai jamais rien
+qui exigerait que quelqu'un m'aide.</i>
+
+216
+00:18:45,720 --> 00:18:48,678
+<i>Jamais je n'aurai peur.
+Jamais je ne reculerai.</i>
+
+217
+00:18:49,920 --> 00:18:51,831
+<i>Je ne perdrai pas devant Sasuke.</i>
+
+218
+00:18:53,920 --> 00:18:57,356
+<i>J'en fais le serment
+sur cette douleur à ma main gauche.</i>
+
+219
+00:18:59,640 --> 00:19:02,712
+<i>Je protégerai le vieil homme
+avec ce</i> kunai <i>!</i>
+
+220
+00:19:10,120 --> 00:19:11,679
+La mission continue.
+
+221
+00:19:12,440 --> 00:19:16,399
+C'est bien d'avoir aussi bravement
+éliminé ton sang empoisonné,
+
+222
+00:19:16,600 --> 00:19:19,160
+mais tu vas t'évanouir
+si tu saignes encore.
+
+223
+00:19:28,920 --> 00:19:31,275
+il faut arrêter l'hémorragie.
+Tout de suite !
+
+224
+00:19:33,720 --> 00:19:35,279
+Non, non et non !
+
+225
+00:19:35,480 --> 00:19:37,630
+Je ne peux pas mourir ainsi !
+
+226
+00:19:38,040 --> 00:19:39,519
+Montre-moi ta main.
+
+227
+00:19:39,720 --> 00:19:42,394
+Non ! Aidez-moi !
+
+228
+00:19:42,600 --> 00:19:46,230
+Naruto,
+ta personnalité est autodestructrice.
+
+229
+00:19:46,440 --> 00:19:47,555
+C'est du masochisme !
+
+230
+00:19:55,000 --> 00:19:55,990
+<i>Sa blessure...</i>
+
+231
+00:19:56,960 --> 00:19:58,473
+<i>commence déjà à guérir.</i>
+
+232
+00:20:02,680 --> 00:20:04,114
+Alors ?
+
+233
+00:20:05,160 --> 00:20:07,151
+Est-ce que je vais bien ?
+
+234
+00:20:07,360 --> 00:20:09,112
+Vous avez un air bien grave.
+
+235
+00:20:11,040 --> 00:20:12,917
+Tu devrais t'en sortir.
+
+236
+00:20:14,800 --> 00:20:17,553
+<i>Ce doit être le pouvoir
+du Renard à Neuf Queues.</i>
+
+237
+00:20:26,440 --> 00:20:28,238
+Vous avez échoué ?
+
+238
+00:20:28,880 --> 00:20:32,350
+J'ai entendu dire
+que vous étiez des ninjas aguerris.
+
+239
+00:20:32,560 --> 00:20:34,676
+J'ai dépensé cher
+pour vous engager.
+
+240
+00:20:36,280 --> 00:20:38,237
+Arrêtez de vous plaindre.
+
+241
+00:20:42,480 --> 00:20:46,439
+Avec ce couteau à décapiter,
+
+242
+00:20:46,640 --> 00:20:48,756
+je tuerai cet homme.
+
+243
+00:20:51,400 --> 00:20:53,357
+Vous êtes vraiment sûr
+que ça va aller ?
+
+244
+00:20:54,360 --> 00:20:57,432
+On dirait que l'ennemi
+a engagé de bons ninjas.
+
+245
+00:20:57,840 --> 00:20:59,194
+Comme ils ont échoué,
+
+246
+00:20:59,400 --> 00:21:04,031
+les Frères Démons seront plus prudents.
+
+247
+00:21:04,240 --> 00:21:06,800
+Qui pensez-vous que je sois ?
+
+248
+00:21:11,440 --> 00:21:15,035
+Moi, Momochi Zabuza, étais surnommé
+
+249
+00:21:15,240 --> 00:21:17,800
+le Démon du Village de la Brume.
+
+250
+00:21:33,480 --> 00:21:35,437
+Sous-titres : Eric Leblanc
+
+251
+00:21:35,640 --> 00:21:37,711
+Sous-titrage : C.M.C. - Paris
+
